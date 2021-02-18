@@ -1,0 +1,41 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.upayments.TAPP"
+    }
+  }
+}
